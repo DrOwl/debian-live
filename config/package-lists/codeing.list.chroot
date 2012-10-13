@@ -1,0 +1,16 @@
+git
+git-svn
+subversion
+
+
+ruby-full
+ruby-dev
+ri
+expect
+
+make
+scons
+scons-doc
+build-essential
+
+
